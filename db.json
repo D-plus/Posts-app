@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "title": "test2",
+      "author": "test2",
+      "userId": 18,
+      "id": 1
+    },
+    {
+      "title": "test2-2",
+      "author": "test2-2",
+      "userId": 18,
+      "id": 2
+    },
+    {
+      "title": "test3",
+      "author": "test3",
+      "userId": 19,
+      "id": 3
+    },
+    {
+      "title": "test3-2",
+      "author": "test3-2",
+      "userId": 19,
+      "id": 4
+    },
+    {
+      "title": "B",
+      "author": "B",
+      "userId": 20,
+      "id": 5
+    },
+    {
+      "title": "A",
+      "author": "A",
+      "userId": 20,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "test2@test.com",
+      "password": "123",
+      "token": "0.35203815794667714",
+      "id": 18
+    },
+    {
+      "email": "test3@test.com",
+      "password": "123",
+      "token": "0.7426257307036352",
+      "id": 19
+    },
+    {
+      "email": "test2@test.com2",
+      "password": "123",
+      "token": "0.9140194882037835",
+      "id": 20
+    }
+  ]
+}
